@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859317547276",
+    "project_id": "collegeeventnotifications",
+    "storage_bucket": "collegeeventnotifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859317547276:android:2a9a90f14716bafa825929",
+        "android_client_info": {
+          "package_name": "com.example.college_alert_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB2ms9_Vy61NcjfIrFegBwPYPlQTArCS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
